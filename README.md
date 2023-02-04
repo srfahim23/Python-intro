@@ -108,3 +108,20 @@ Example 3:
 Output:
 
         Python Program
+
+
+# Multi-Lilne Comments:
+To write multi-line comments you can use '#' at each line or you can use the multine string.
+Example 1:The use '#'
+
+    #It will execute a block of code if a specified condition is true.
+    #If the condition is false than it will execute another block of code.
+    p = 7
+    if (p > 5):
+        print("p is greater than 5.")
+    else:
+        print("p is not greater than 5.")    
+
+Output:
+
+    p is greater than 5.        
