@@ -73,3 +73,8 @@ it. In simple words, indentation is the addition of spaces before the line "prin
 
     for i in range(5):
         print(i)
+
+# Python Comments
+A comment is a part of the coding file that the programmer does not want to executed,
+rather the programmer uses it to either explain a block of code or to avoid the execution of 
+a specific part of code while tesing.        
