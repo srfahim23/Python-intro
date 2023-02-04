@@ -53,4 +53,13 @@ Following command installs pandas package in Python
 
     pip intall pandas
 
-We will learn more about the pip command in the chapter dedicated to pip.    
+We will learn more about the pip command in the chapter dedicated to pip.   
+
+
+# What is Syntax?
+In simplest words, syntax is the arragment of words and phrases to create
+well-formed sentances in a language. In the case of a computer language, the
+syntax is the structural arrangement of comments, variables, numbers, 
+operators, statements, loops, functions, classes, objects, etc. Which helps us
+understand the meaning or semantics of a computer language.
+
