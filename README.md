@@ -35,4 +35,14 @@ c.Run the executable file and complete the installation proccess.
 After installation check the version of python by typing following command:
 ‘python --version’.
 
+# Starting Python:
+Open Python IDE or any other text editors of your preferred choice. Let's understand
+python code execution with the simplest print statement.
+Type the following in the IDE:
+
+print("Hellow World !!!")
+
+Now save the file with a.py extension and Run it. You will got the following output:
+
+    Hello World !!!
 
