@@ -46,3 +46,11 @@ Now save the file with a.py extension and Run it. You will got the following out
 
     Hello World !!!
 
+# Installing Packages:
+To install packages in Python, we use the pip command.
+e.g. pip install "Packages Name"
+Following command installs pandas package in Python
+
+    pip intall pandas
+
+We will learn more about the pip command in the chapter dedicated to pip.    
