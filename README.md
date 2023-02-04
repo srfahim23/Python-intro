@@ -90,3 +90,12 @@ Example 1:
 Output:
 
     This is a print statement.
+
+
+Example 2:
+
+    print("Hello World !!!")   #Printing Hello World
+
+Output:
+
+        Hello World
