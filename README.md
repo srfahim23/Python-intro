@@ -99,3 +99,12 @@ Example 2:
 Output:
 
         Hello World
+
+Example 3:
+
+        print("Python Program)
+        #print("Python Program)
+
+Output:
+
+        Python Program
