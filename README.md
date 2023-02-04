@@ -15,4 +15,10 @@ It was created by Guido Van Rossum is 1989.
     Python provides very big library support. Some of the popular libraries include NumPy, Tensorflow, Selenium, OpenCV, etc.
     Its is possible to integrate other programming languages within python.
 
-<!-- !What is Python Used for? -->
+# What is Python Used for
+Python is used in Data Visulization to create plots and graphical represntations.
+Python helps in Data Analytics to analyze and understand raw data for insights and trends.
+It is used in AI and Machine learning to simulate human behavior and to learn from past data without hard coding.
+It is used to create web applications.
+It can be used to handle databases.
+It is used in business and accounting to perform complex mathmatcal operations along with quantitative and qualitative analysis.
