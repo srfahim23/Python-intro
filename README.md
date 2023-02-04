@@ -86,5 +86,7 @@ Example 1:
     #This is a 'Single-Line Comment'
     print("This is a print statement.")
 
+
 Output:
+
     This is a print statement.
