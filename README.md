@@ -22,3 +22,15 @@ It is used in AI and Machine learning to simulate human behavior and to learn fr
 It is used to create web applications.
 It can be used to handle databases.
 It is used in business and accounting to perform complex mathmatcal operations along with quantitative and qualitative analysis.
+
+# Installation & Getting Started
+#Steps to Install Python:
+a.Vsisit the official python website:https:/www.python.org/
+b.Download the executable file based on your Operating System and version specifications.
+c.Run the executable file and complete the installation proccess.
+
+# Version:
+After installation check the version of python by typing following command:
+‘python --version’.
+
+
