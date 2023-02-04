@@ -77,4 +77,14 @@ it. In simple words, indentation is the addition of spaces before the line "prin
 # Python Comments
 A comment is a part of the coding file that the programmer does not want to executed,
 rather the programmer uses it to either explain a block of code or to avoid the execution of 
-a specific part of code while tesing.        
+a specific part of code while tesing.  
+
+# Single-Line Comments:
+To write a comment just add a "#" at the start of the line.
+Example 1:
+
+    #This is a 'Single-Line Comment'
+    print("This is a print statement.")
+
+Output:
+    This is a print statement.
