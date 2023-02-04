@@ -26,7 +26,9 @@ It is used in business and accounting to perform complex mathmatcal operations a
 # Installation & Getting Started
 #Steps to Install Python:
 a.Vsisit the official python website:https:/www.python.org/
+
 b.Download the executable file based on your Operating System and version specifications.
+
 c.Run the executable file and complete the installation proccess.
 
 # Version:
